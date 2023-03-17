@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://saipavan2702.github.io/task-json",
+  "homepage": "http://saipavan2702.github.io/Task-tracker-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
