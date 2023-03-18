@@ -5,6 +5,18 @@
       "day": "June 23",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "My birthday",
+      "day": "Feb 27",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Nitin bday",
+      "day": "April 19",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
